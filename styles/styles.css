@@ -102,4 +102,8 @@ button:hover {
     padding: 0.5rem;
   }
 
+  form input {
+    padding: 15px;
+  }
+
 }
